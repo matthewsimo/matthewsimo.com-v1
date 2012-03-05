@@ -511,6 +511,7 @@ html, body, .wrapper { height: 100%; }
 body {
   width: 100%;
   z-index: 10;
+  background: #999;
 }
 
 body:before {
