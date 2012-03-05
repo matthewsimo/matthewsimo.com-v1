@@ -527,6 +527,7 @@ body:before {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   z-index: -1;
+  background: transparent;
 }
 
 
@@ -562,4 +563,8 @@ a {
 
 a:hover {
   color: #fff5fd;
+}
+
+.anystretch {
+  background: transparent;
 }
