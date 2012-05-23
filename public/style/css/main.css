@@ -511,6 +511,7 @@ html, body, .wrapper { height: 100%; }
 body {
   width: 100%;
   z-index: 10;
+  background: #999;
 }
 
 body:before {
@@ -526,6 +527,7 @@ body:before {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   z-index: -1;
+  background: transparent;
 }
 
 
@@ -561,4 +563,8 @@ a {
 
 a:hover {
   color: #fff5fd;
+}
+
+.anystretch {
+  background: transparent;
 }

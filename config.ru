@@ -1,2 +1,2 @@
-require '.simo.rb'
+require './simo.rb'
 run Sinatra::Application
