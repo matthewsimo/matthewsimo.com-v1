@@ -534,7 +534,6 @@ body:before {
 
 .wrapper {
   z-index: 12;
-/*   background: transparent url(../img/ms-pattern.png) repeat center center scroll; */
 }
 
 
@@ -542,7 +541,8 @@ body:before {
   background: rgba(0,0,0, .4);
   padding: 80px;
   font-family: "adelle";
-  color: #FFF;
+  font-weight: 300;
+  color: #ebebeb;
   font-size: 30px;
   line-height: 36px;
   z-index: 15;
@@ -562,7 +562,7 @@ a {
 }
 
 a:hover {
-  color: #fff5fd;
+  color: #ebebeb;
 }
 
 .anystretch {
