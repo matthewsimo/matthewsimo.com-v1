@@ -595,6 +595,19 @@ a:hover {
   color: #ebebeb;
 }
 
+a.nav {
+  position: relative;
+  top: 13px;
+  left: 13px;
+  color: #333;
+}
+
+a.nav:hover {
+  color: #fc63e5;
+  text-shadow: 0 0 20px #333;
+}
+
+
 .anystretch {
   background: transparent;
 }
