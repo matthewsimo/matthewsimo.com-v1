@@ -596,9 +596,9 @@ a:hover {
 }
 
 a.nav {
-  position: relative;
-  top: 13px;
-  left: 13px;
+  position: absolute;
+  top: 18px;
+  left: 18px;
   color: #333;
 }
 
